@@ -1,0 +1,196 @@
+{
+  "motores": [
+    {
+      "codigo": "10345469",
+      "descricao": "Motor bomba cooling",
+      "localizacao": "Laminação 1",
+      "id": "842a"
+    },
+    {
+      "codigo": "20876543",
+      "descricao": "Motor ventilador principal",
+      "localizacao": "Sala de Controle",
+      "id": "923b"
+    },
+    {
+      "codigo": "30987654",
+      "descricao": "Motor compressor ar",
+      "localizacao": "Estação de Compressores",
+      "id": "765c"
+    },
+    {
+      "codigo": "40567890",
+      "descricao": "Motor transportador esteira",
+      "localizacao": "Armazém de Expedição",
+      "id": "654d"
+    },
+    {
+      "codigo": "50234567",
+      "descricao": "Motor elevador plataforma",
+      "localizacao": "Centro de Distribuição",
+      "id": "567e"
+    },
+    {
+      "codigo": "60982345",
+      "descricao": "Motor misturador industrial",
+      "localizacao": "Sala de Produção",
+      "id": "432f"
+    },
+    {
+      "codigo": "70894532",
+      "descricao": "Motor bomba hidráulica",
+      "localizacao": "Sala de Máquinas 1",
+      "id": "321g"
+    },
+    {
+      "codigo": "80765432",
+      "descricao": "Motor esteira transportadora",
+      "localizacao": "Depósito de Matéria-Prima",
+      "id": "987h"
+    },
+    {
+      "codigo": "90321456",
+      "descricao": "Motor gerador emergência",
+      "localizacao": "Subestação Elétrica",
+      "id": "876i"
+    },
+    {
+      "codigo": "10087654",
+      "descricao": "Motor bomba água potável",
+      "localizacao": "Estação de Tratamento",
+      "id": "765j"
+    },
+    {
+      "codigo": "11098765",
+      "descricao": "Motor extrator ar quente",
+      "localizacao": "Fornos Industriais",
+      "id": "654k"
+    },
+    {
+      "codigo": "12054321",
+      "descricao": "Motor agitador tanque",
+      "localizacao": "Laboratório de Pesquisa",
+      "id": "543l"
+    },
+    {
+      "codigo": "13023456",
+      "descricao": "Motor bomba vácuo",
+      "localizacao": "Sala de Controle Ambiental",
+      "id": "432m"
+    },
+    {
+      "codigo": "14087654",
+      "descricao": "Motor secador industrial",
+      "localizacao": "Área de Secagem",
+      "id": "321n"
+    },
+    {
+      "codigo": "15098765",
+      "descricao": "Motor guindaste ponte",
+      "localizacao": "Pátio de Carga",
+      "id": "210o"
+    },
+    {
+      "codigo": "16065432",
+      "descricao": "Motor empilhadeira elétrica",
+      "localizacao": "Centro de Distribuição",
+      "id": "109p"
+    },
+    {
+      "codigo": "17098765",
+      "descricao": "Motor bomba óleo lubrificação",
+      "localizacao": "Sala de Manutenção",
+      "id": "098q"
+    },
+    {
+      "codigo": "18043210",
+      "descricao": "Motor compressor refrigeração",
+      "localizacao": "Câmara Fria",
+      "id": "987r"
+    },
+    {
+      "codigo": "19012345",
+      "descricao": "Motor misturador tintas",
+      "localizacao": "Oficina de Pintura",
+      "id": "876s"
+    },
+    {
+      "codigo": "20098765",
+      "descricao": "Motor bomba incêndio",
+      "localizacao": "Central de Emergência",
+      "id": "765t"
+    },
+    {
+      "codigo": "21023456",
+      "descricao": "Motor triturador resíduos",
+      "localizacao": "Reciclagem",
+      "id": "654u"
+    },
+    {
+      "codigo": "22054321",
+      "descricao": "Motor cortador papel",
+      "localizacao": "Gráfica",
+      "id": "543v"
+    },
+    {
+      "codigo": "23098765",
+      "descricao": "Motor bomba água reuso",
+      "localizacao": "Estação de Tratamento de Efluentes",
+      "id": "432w"
+    },
+    {
+      "codigo": "24065432",
+      "descricao": "Motor ventilador exaustor",
+      "localizacao": "Sala de Controle de Qualidade",
+      "id": "321x"
+    },
+    {
+      "codigo": "25023456",
+      "descricao": "Motor misturador alimentos",
+      "localizacao": "Cozinha Industrial",
+      "id": "210y"
+    },
+    {
+      "codigo": "26087654",
+      "descricao": "Motor bomba produtos químicos",
+      "localizacao": "Laboratório de Testes",
+      "id": "109z"
+    },
+    {
+      "codigo": "27054321",
+      "descricao": "Motor compactador resíduos",
+      "localizacao": "Estação de Reciclagem",
+      "id": "098aa"
+    },
+    {
+      "codigo": "28023456",
+      "descricao": "Motor misturador cosméticos",
+      "localizacao": "Laboratório de Desenvolvimento",
+      "id": "987ab"
+    },
+    {
+      "codigo": "29098765",
+      "descricao": "Motor bomba óleo lubrificante",
+      "localizacao": "Oficina de Manutenção",
+      "id": "876ac"
+    },
+    {
+      "codigo": "30065432",
+      "descricao": "Motor gerador backup",
+      "localizacao": "Sala de Servidores",
+      "id": "765ad"
+    },
+    {
+      "id": "590h",
+      "codigo": "23232323",
+      "descricao": "erverbertb",
+      "localizacao": "ebverbtbrt"
+    },
+    {
+      "id": "535i",
+      "codigo": "23232323",
+      "descricao": "Motor caminho de rolos",
+      "localizacao": "Laminação 1"
+    }
+  ]
+}
